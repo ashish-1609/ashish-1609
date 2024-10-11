@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a Graduate in Bachelor of Computer Application
 
 ### Languages
 [![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=FFEA00)](https://www.oracle.com/java/)
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -23,11 +24,14 @@ Welcome to my GitHub profile! I'm a Graduate in Bachelor of Computer Application
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
 ### Tools
-[![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)](https://www.rabbitmq.com/)
-[![TeamCity](https://img.shields.io/badge/-TeamCity-black?style=for-the-badge&logo=teamcity&logoColor=3B5998)](https://www.jetbrains.com/teamcity/)
-[![Batch Processing](https://img.shields.io/badge/-Batch%20Processing-black?style=for-the-badge&logo=apache&logoColor=D22128)](https://apache.org/)
+[![Spring Security](https://img.shields.io/badge/-Spring%20Security-black?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://spring.io/projects/spring-security)
+[![SonarQube](https://img.shields.io/badge/-SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)](https://www.sonarqube.org/)
+[![Gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle&logoColor=23B57D)](https://gradle.org/)
+[![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-black?style=for-the-badge&logo=thymeleaf&logoColor=5B8C5A)](https://www.thymeleaf.org/)
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
 
 ### Databases
 [![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-black?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
