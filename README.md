@@ -1,4 +1,4 @@
-# ![Dragon Logo](https://static.zerochan.net/Charizard.full.3674262.jpg) 👋 Hello, I'm Ashish Mishra!
+# <img src="https://static.zerochan.net/Charizard.full.3674262.jpg" alt="Dragon Logo" width="50" style="vertical-align: middle;"> 👋 Hello, I'm Ashish Mishra!
 
 Welcome to my GitHub profile! I'm a Graduate in Bachelor of Computer Application, currently working at Celeris Payments. I have a passion for building robust applications and love working on projects involving backend development with Spring Boot.
 
