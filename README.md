@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm a Graduate in Bachelor of Computer Application
 - 🌱 **Looking to Collaborate on:** Spring Boot backends
 - 💬 **Ask Me About:** Spring Boot, MySQL, Docker
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-1609" alt="ashish-1609" /></a> </p>
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
