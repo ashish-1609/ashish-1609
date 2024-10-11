@@ -1,19 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ashish Mishra</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+# 👋 Hello, I'm Ashish Mishra!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-1609" alt="ashish-1609" /></a> </p>
+Welcome to my GitHub profile! I'm a Graduate in Bachelor of Computer Application, currently working at Celeris Payments. I have a passion for building robust applications and love working on projects involving backend development with Spring Boot.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashish-mishra2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-mishra2003" height="30" width="40" /></a>
-<a href="https://instagram.com/__ash.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ash.05" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ashish_209040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashish_209040" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashish_209040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish_209040/" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 🌍 Based in Delhi, India
+- 🎓 Graduate in Bachelor of Computer Application
+- 💼 Currently working at Celeris Payments
+- 🌱 I’m looking to collaborate on Spring Boot backends
+- 💬 Ask me about Spring Boot, MySQL, Docker
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-1609&show_icons=true&locale=en&layout=compact" alt="ashish-1609" /></p>
+## 🛠️ Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-1609&show_icons=true&locale=en" alt="ashish-1609" /></p>
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frameworks:** Spring Boot, React
+- **Tools:** AWS, Docker, RabbitMQ, TeamCity, Batch Processing
+- **Databases:** Oracle DB, MySQL
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-1609&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ashish-mishra2003)
+- [Instagram](https://www.instagram.com/__ash.05)
+- [CodeChef](https://www.codechef.com/users/ashish_209040)
+- [LeetCode](https://leetcode.com/ashish_209040)
+
+Feel free to reach out if you want to collaborate or just say hi! 😊
