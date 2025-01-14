@@ -41,7 +41,8 @@ Welcome to my GitHub profile! I'm a Graduate in Bachelor of Computer Application
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-1609&show_icons=true&hide_title=true&count_private=true&theme=radical)
+[![Ashish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ashish-1609&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ashish-1609/github-readme-stats#gh-dark-mode-only)
+[![Ashish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ashish-1609&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ashish-1609/github-readme-stats#gh-light-mode-only)
 
 ## 📫 Connect with Me
 
