@@ -1,6 +1,8 @@
 # <img src="https://static.zerochan.net/Charizard.full.3674262.jpg" alt="Dragon Logo" width="50" style="vertical-align: middle;"> 👋 Hello, I'm Ashish Mishra!
 
-Welcome to my GitHub profile! I'm a Graduate in Bachelor of Computer Application, currently working at Celeris Payments. I have a passion for building robust applications and love working on projects involving backend development with Spring Boot.
+Hi there! 👋
+
+I'm a Java Developer and a Bachelor of Computer Applications graduate with a strong passion for building robust and scalable backend applications. Currently, I work at Celeris Payments, where I specialize in Java-based backend development using Spring Boot.
 
 ## 🚀 About Me
 
