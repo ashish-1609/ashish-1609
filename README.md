@@ -1,14 +1,25 @@
 # <img src="https://static.zerochan.net/Charizard.full.3674262.jpg" alt="Dragon Logo" width="50" style="vertical-align: middle;"> 👋 Hello, I'm Ashish Mishra!
 
-Hi there! 👋
+### 👋 Hi there, I'm a Java Developer!
 
-I'm a Java Developer and a Bachelor of Computer Applications graduate with a strong passion for building robust and scalable backend applications. Currently, I work at Celeris Payments, where I specialize in Java-based backend development using Spring Boot.
+I'm a **Bachelor of Computer Applications** graduate with a strong passion for building robust and scalable backend systems. I specialize in **Java backend development**, particularly using **Spring Boot**, and enjoy solving complex problems with clean and maintainable code.
+
+💼 **Currently working at [CelerisPay](https://celerispayments.com/)**  
+🔧 Tech Stack: `Java`, `Spring Boot`, `REST APIs`, `MySQL`, `MariaDB`, `Hibernate`, `Docker`, `Linux`
+🚀 Enthusiastic about scalable architecture, clean code, and backend performance optimization.
+
+---
+
+📫 **Let's connect!**  
+[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/your-username) | [Portfolio](https://your-portfolio.com)
+
+
 
 ## 🚀 About Me
 
 - 🌍 **Location:** Delhi, India 🇮🇳
 - 🎓 **Education:** Graduate in Bachelor of Computer Application
-- 💼 **Currently Working:** Celeris Payments
+- 💼 **Currently Working:** CelerisPay 
 - 🌱 **Looking to Collaborate on:** Spring Boot backends
 - 💬 **Ask Me About:** Spring Boot, MySQL, Docker
 
