@@ -47,10 +47,12 @@ I'm a **Bachelor of Computer Applications** graduate with a strong passion for b
 [![Gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle&logoColor=23B57D)](https://gradle.org/)
 [![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-black?style=for-the-badge&logo=thymeleaf&logoColor=5B8C5A)](https://www.thymeleaf.org/)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=git&logoColor=F05032)](https://grafana.com/)
 
 ### Databases
 [![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-black?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mariadb.org/)
 
 ## 📈 GitHub Stats
 
