@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm a Java Developer!
 
-I'm a **Bachelor of Computer Applications** graduate with a strong passion for building robust and scalable backend systems. I specialize in **Java backend development**, particularly using **Spring Boot**, and enjoy solving complex problems with clean and maintainable code.
+I'm a **Java Developer** with a strong passion for building robust and scalable backend systems. I specialize in **Backend development**, particularly using **Spring Boot**, and enjoy solving complex problems with clean and maintainable code.
 
 💼 **Currently working at [CelerisPay](https://celerispayments.com/)**  
 🔧 Tech Stack: `Java`, `Spring Boot`, `REST APIs`, `MySQL`, `MariaDB`, `Hibernate`, `Docker`, `Linux`
@@ -36,7 +36,7 @@ I'm a **Bachelor of Computer Applications** graduate with a strong passion for b
 
 ### Frameworks
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=react&logoColor=61DAFB)](https://angular.dev/)
 
 ### Tools
 [![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
@@ -48,6 +48,7 @@ I'm a **Bachelor of Computer Applications** graduate with a strong passion for b
 [![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-black?style=for-the-badge&logo=thymeleaf&logoColor=5B8C5A)](https://www.thymeleaf.org/)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=git&logoColor=F05032)](https://grafana.com/)
+[![Drools Rule Language](https://img.shields.io/badge/-Drools-black?style=for-the-badge&logo=drools&logoColor=F05032)](https://www.drools.org/)
 
 ### Databases
 [![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-black?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
