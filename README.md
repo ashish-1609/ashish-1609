@@ -56,8 +56,6 @@ I'm a **Java Developer** with a strong passion for building robust and scalable 
 [![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mariadb.org/)
 
 ## 📈 GitHub Stats
-
-[![Ashish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ashish-1609&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ashish-1609/github-readme-stats#gh-dark-mode-only)
 [![Ashish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ashish-1609&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ashish-1609/github-readme-stats#gh-light-mode-only)
 
 ## 📫 Connect with Me
