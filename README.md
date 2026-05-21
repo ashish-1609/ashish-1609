@@ -40,6 +40,7 @@ I'm a **Java Developer** with a strong passion for building robust and scalable 
 
 ### Tools
 [![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+[![AZURE](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=azure&logoColor=FF9900)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)](https://www.rabbitmq.com/)
 [![Spring Security](https://img.shields.io/badge/-Spring%20Security-black?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://spring.io/projects/spring-security)
@@ -56,7 +57,9 @@ I'm a **Java Developer** with a strong passion for building robust and scalable 
 [![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mariadb.org/)
 
 ## 📈 GitHub Stats
-[![Ashish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ashish-1609&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ashish-1609/github-readme-stats#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ashish-1609&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ashish-1609&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashish-1609&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
