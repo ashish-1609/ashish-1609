@@ -7,7 +7,7 @@ I'm a **Java Developer** with a strong passion for building robust and scalable 
 💼 **Currently working at [CelerisPay](https://celerispayments.com/)**  
 🔧 Tech Stack: `Java`, `Spring Boot`, `REST APIs`, `MySQL`, `MariaDB`, `Hibernate`, `Docker`, `Linux`
 🚀 Enthusiastic about scalable architecture, clean code, and backend performance optimization.
-
+ 
 ---
 
 📫 **Let's connect!**  
